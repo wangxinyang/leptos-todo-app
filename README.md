@@ -46,5 +46,13 @@ $ cargo install
 $ trunk serve --open
 ```
 
+## Capture
+![](https://github.com/wangxinyang/leptos-todo-app/blob/main/capture/todo.gif)
 
+## License
 
+This project is distributed under the terms of MIT.
+
+See [LICENSE](LICENSE.md) for details.
+
+Copyright 2024 Xinyang Wang
